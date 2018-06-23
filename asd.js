@@ -1,4 +1,0 @@
-﻿function a()
-{
-	alert('a')
-}
